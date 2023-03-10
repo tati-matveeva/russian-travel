@@ -4,3 +4,4 @@
 
 В проекте задействованы технологии Grid Layout и flex-box верстки, а так же css-анимация. Работа выполнена по методологии БЭМ и с учетом семантики.
 https://github.com/tati-matveeva/russian-travel
+https://tati-matveeva.github.io/russian-travel/

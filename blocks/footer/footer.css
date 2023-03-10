@@ -7,20 +7,20 @@
   align-items: center;
 }
 
-@media screen and (max-width: 1024px){
+@media screen and (max-width: 1279px){
   .footer{
-    max-width: 928px;
+    max-width: calc(100% - 2 * 48px);
   }
 }
-@media screen and (max-width: 768px){
+@media screen and (max-width: 1023px){
   .footer{
-    max-width: 720px;
+    max-width: calc(100% - 2 * 24px);
   }
 }
 
-@media screen and (max-width: 320px){
+@media screen and (max-width: 767px){
   .footer{
-    max-width: 186px;
+    max-width: calc(100% - (118px + 16px));
     flex-direction: column;
     margin-left: 16px;
     margin-right: auto;
