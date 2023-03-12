@@ -11,7 +11,6 @@
 
 @media screen and (max-width: 1023px){
   .cover{
-    max-width: 100%;
     margin-left: 0px;
     margin-bottom: 88px;
     margin-right: 0px;
@@ -20,9 +19,6 @@
 
 @media screen and (max-width: 767px){
   .cover{
-    max-width: 100%;
-    margin-left: 0px;
-    margin-right: 0px;
     margin-bottom: 64px;
   }
 }

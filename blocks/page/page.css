@@ -11,15 +11,3 @@
     width: 100%;
   }
 }
-  
-@media screen and (max-width: 1023px){
-  .page{
-    width: 100%;
-  }
-}
-  
-@media screen and (max-width: 767px){
-  .page{
-    width: 100%;
-  }
-}
